@@ -1,4 +1,10 @@
 # jedi-knight-generator
-灵感来自：
+文字生成器，[地址](https://noto1998.gitee.io/project/jedi-knight-generator/)。
 
-https://github.com/Noto1998/jedi-knight-generator/blob/main/images/img.png
+无聊写的小东西，灵感来自[朋友发的一张图片](https://noto1998.gitee.io/project/jedi-knight-generator/images/img.png)。
+
+![](http://localhost:4000/project/jedi-knight-generator/images/screen-2020-12-10-165142.png)
+
+
+
+截图中的样式来自Next主题，解除注释掉的样式可使用Github样式。
