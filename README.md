@@ -3,7 +3,7 @@
 
 无聊写的小东西，灵感来自[朋友发的一张图片](https://noto1998.gitee.io/project/jedi-knight-generator/images/img.png)。
 
-![](http://localhost:4000/project/jedi-knight-generator/images/screen-2020-12-10-165142.png)
+![](https://noto1998.gitee.io/project/jedi-knight-generator/images/screen-2020-12-10-165142.png)
 
 
 
