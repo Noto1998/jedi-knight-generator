@@ -5,6 +5,4 @@
 
 ![](https://noto1998.gitee.io/project/jedi-knight-generator/images/screen-2020-12-10-165142.png)
 
-
-
-截图中的样式来自Next主题，解除注释掉的样式可使用Github样式。
+样式来自Github官方的[primer css](https://github.com/primer/css)。
